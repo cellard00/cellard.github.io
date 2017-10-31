@@ -3,7 +3,7 @@ body{
 }
 
 .container {
-	/*background-color: red;*/
+	background-color: red;
 	max-width: 900px;
 	margin: 0 auto;
 	animation: fadeup 1.5s;
