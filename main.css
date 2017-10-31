@@ -1,0 +1,72 @@
+body{
+	
+}
+
+.container {
+	/*background-color: red;*/
+	max-width: 900px;
+	margin: 0 auto;
+	animation: fadeup 1.5s;
+	-webkit-animation: fadeup 1.5s;
+	-moz-animation: fadeup 1.5s;
+}
+
+body{
+	font-family: Raleway;
+	
+}
+header{
+	padding:40px;
+}
+
+.flex {
+	display: flex;
+}
+
+.flex-direction{
+	flex-direction: column;
+}
+
+.space-between-shit{
+	justify-content: space-between;
+}
+
+h1 {
+	color: Black;
+	padding: 100px 0;
+	max-width: 450px;
+}
+
+.content img{
+	width: 100%;
+}
+.grey-name {
+	color:grey;
+	
+}
+.content p{
+	padding-bottom: 50px: 
+}
+
+a{
+	text-decoration:none;
+}
+
+@media(max-width: 900px){
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
